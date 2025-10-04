@@ -20,16 +20,3 @@ elif nota <= 6 :
     print("recuperação")
 elif nota > 6:
     print("aprovado")
-
-#Tabela IMC
-
-#Calculadora
-#Pedir pro usuario 2 numeros e a operação,
-#e fazer a conta de aacordo com a operação escolhida
-
-#Pegar idade de um usuario;
-# Se idade > 18 -> Não eleitor
-# Se idade < 18 e >= 65 -> Eleitor obrigatorio
-# Se idade < 65 -> Eleitor Facultativo
-
-#Desafio: Pegar 3 numeros do usuario e ver qual o maior
