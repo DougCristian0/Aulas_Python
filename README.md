@@ -1,1 +1,1 @@
-Pasta contendo código dos exemplos feitos nas aulas de python na Fábrica de Programadores
+Pasta contendo código dos exemplos feitos em aula com meus alunos de python na Fábrica de Programadores
